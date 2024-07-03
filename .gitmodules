@@ -1,0 +1,3 @@
+[submodule "expence_tracker"]
+	path = expence_tracker
+	url = https://github.com/sasi1565/expence_tracker.git
